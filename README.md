@@ -1,2 +1,3 @@
 # ArcadeIT-Projects
-Projects created in group Arcade IT
+# Stock Assistant App
+https://github.com/Arcade-IT/gielda_backend_java
